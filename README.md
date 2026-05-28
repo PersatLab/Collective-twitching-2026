@@ -260,7 +260,7 @@ resulting "spots" CSV files were used as input for subsequent analysis in Python
 2. Run `3_trajectory_analysis/MSD/scripts/03_TrackAnalysis.ipynb` to reproduce Figure 3.E
 3. Run `3_trajectory_analysis/contact_reversals/scripts/03_TrackAnalysis.ipynb` to reproduce Supplementary Figure 2.A
 
-Expected run time: ~10 min.
+Expected run time: ~1 hour.
 
 
 ### Analysis 4 — PilG polarization *(Figure 3.I)*
