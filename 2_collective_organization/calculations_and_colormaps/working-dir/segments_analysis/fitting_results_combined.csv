@@ -1,0 +1,4 @@
+Filename,Fitting Equation,a,b,c
+240614_459_0p55agarose_2xTrpNC_OD0p5_3h_5s_100X_004_Frame1,a * exp(-Radius/b) + c,0.6947,3.3639,-0.0008
+240913_232+2621_0p55pagarose_2xTrpNC_OD0p5_mix10pc_5s_2h_6001_Frame1,a * exp(-Radius/b) + c,1.1191,9.7391,-0.0139
+240917_177+2618_0p55pagarose_2xTrpNC_OD0p5_mix2pc_5s_2h55_7_Frame1,a * exp(-Radius/b) + c,1.3886,1.339,-0.0008

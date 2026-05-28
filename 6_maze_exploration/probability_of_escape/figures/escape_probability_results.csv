@@ -1,0 +1,7 @@
+filename,strain,number_bacteria_total,number_bacteria_inside,number_bacteria_outside,probability of escape
+250528_2621_0p5agar_glass-1um-maze2_Tp01g_OD0p2_ALI-12h_5s_2_C2-BF-Frame1-rotated.tif,mutant,42,42,0,0.0
+250604_2621_0p5agar_glass-1um-maze6_Tp01g_OD0p2_ALI-10h_5s_crop-BF-1.tif,mutant,24,24,0,0.0
+2506017_2621_0p5agar_glass-1um-maze6_Tp01g_OD0p2_ALI-10h_5s_C2-BF-Frame1.tif,mutant,59,58,1,1.694915254237288
+2506017_2619_0p5agar_glass-1um-maze6_Tp01g_OD0p2_ALI-5h_5s_crop-BF-Frame1.tif,WT,77,57,20,25.974025974025974
+250528_2619_0p5agar_glass-1um-maze2_Tp01g_OD0p2_ALI-6h_5s_crop-BF-Frame1-crop.tif,WT,18,13,5,27.77777777777778
+2506021_2619_0p5agar_glass-1um-maze2_Tp01g_OD0p2_ALI-10h_5s_2-BF-Frame1-rotated.tif,WT,145,128,17,11.724137931034482
