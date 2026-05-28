@@ -2,7 +2,7 @@
 
 This repository contains the codes and datasets needed to reproduce the experimental findings reported in our paper: **Bacteria Tune Collective Navigation by Mechanosensing Collisions**
 
-> **DOI:** 10.5281/zenodo.20341025
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20430747.svg)](https://doi.org/10.5281/zenodo.20430747)
 
 ---
 
